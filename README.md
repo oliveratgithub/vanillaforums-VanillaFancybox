@@ -1,4 +1,6 @@
 vanillaforums-VanillaFancybox
 =============================
 
-Plugin "VanillaFancybox" for http://vanillaforums.org/
+Addon "jQuery Fancybox" for http://vanillaforums.org/
+
+Public release @ http://vanillaforums.org/addon/vanillafancybox-plugin
